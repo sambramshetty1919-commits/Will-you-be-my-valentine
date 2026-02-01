@@ -20,10 +20,10 @@ const YesNoComponent = () => {
 
   const phrases = [
     "No",
-    "Are you sure?",
+    "Are you sure Gundu?",
     "Really Sure",
-    "Cookie says please",
-    "Don't do this to me",
+    "Sambru says please",
+    "Chittu Don't do this to me",
     "I am gonna cry",
     "You are breaking my heart ;(",
     "I am very sad",
